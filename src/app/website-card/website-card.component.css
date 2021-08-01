@@ -1,0 +1,17 @@
+div.ui.statistic {
+    display: block;
+}
+div.ui.card {
+    max-width: 250px;
+    margin-top: 2rem;
+}
+div.content> a.header, div.meta, div.value{
+    font-family: monospace;
+}
+div.content> a.header{
+    text-transform: uppercase;
+}
+div.statistic > div.label{
+    font-family: 'ALK Sanet', sans-serif;
+    letter-spacing: 1.2px;
+}

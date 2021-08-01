@@ -28,9 +28,14 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/alk-sanet/css/alk-sanet.css",
+              "src/assets/semantic/dist/semantic.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/jquery/dist/jquery.js",
+              "src/assets/semantic/dist/semantic.min.js"
+            ]
           },
           "configurations": {
             "production": {

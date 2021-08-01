@@ -1,0 +1,10 @@
+div.menu{
+    margin-bottom: 3rem;
+}
+.input-el::placeholder, button.button, span.text {
+    font-family: 'ALK Sanet', sans-serif;
+    letter-spacing: 1.2px;
+}
+span.text{
+    font-weight: 800;
+}
